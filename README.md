@@ -1,1 +1,1 @@
-[Glitch Link]([url](https://safe-linen-suggestion.glitch.me/))
+[Glitch Link]([(https://safe-linen-suggestion.glitch.me/]))
